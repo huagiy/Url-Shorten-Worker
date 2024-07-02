@@ -16,15 +16,15 @@ const protect_keylist = [
   "password",
 ]
 
-let index_html = "https://huagiy.github.io/Url-Shorten-Worker/" + config.theme + "/index.html"
-let result_html = "https://huagiy.github.io/Url-Shorten-Worker/" + config.theme + "/result.html"
+let index_html = "https://yiwenkj.github.io/Url-Shorten-Worker/" + config.theme + "/index.html"
+let result_html = "https://yiwenkj.github.io/Url-Shorten-Worker/" + config.theme + "/result.html"
 
 const html404 = `<!DOCTYPE html>
   <html>
   <body>
     <h1>404 Not Found.</h1>
     <p>The url you visit is not found.</p>
-    <p> <a href="https://github.com/huagiy/Url-Shorten-Worker/" target="_self">Fork me on GitHub</a> </p>
+    <p> <a href="https://github.com/yiwenkj/Url-Shorten-Worker/" target="_self">Fork me on GitHub</a> </p>
   </body>
   </html>`
 
